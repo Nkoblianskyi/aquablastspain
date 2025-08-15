@@ -47,7 +47,7 @@ export function CookieBanner() {
           <div className="p-6">
             <div className="flex items-start justify-between mb-4">
               <div className="flex-1 pr-4">
-                <h3 className="font-semibold text-card-foreground mb-2">🍪 Utilizamos cookies</h3>
+                <h3 className="font-semibold text-card-foreground mb-2">Utilizamos cookies</h3>
                 <p className="text-sm text-muted-foreground leading-relaxed">
                   Utilizamos cookies esenciales para el funcionamiento del sitio y cookies opcionales para análisis y
                   marketing. Puedes gestionar tus preferencias o consultar más información en nuestra{" "}
